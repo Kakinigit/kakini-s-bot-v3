@@ -27,4 +27,4 @@ async def status(ctx):
     messagestatus = "**Le bot est en développement.**"
     await ctx.send(messagestatus)
 
-bot.run("ODg2NjY0NDk2OTAxNDIzMTA0.YT44qQ.PXARLShI5Gm6lORDRkocG-4YrLk")
+bot.run("")
